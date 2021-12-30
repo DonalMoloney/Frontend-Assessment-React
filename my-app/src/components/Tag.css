@@ -1,0 +1,11 @@
+.userTags{
+    font-size: 12pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:75px;
+    height: 35px; 
+    background-color:darkgrey !important;
+    flex-grow: 1;
+    margin:2px
+}
